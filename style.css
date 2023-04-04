@@ -14,11 +14,11 @@
     box-sizing: border-box;
 }
 
-.img {
+ img {
     max-width: 100%;
 }
 
-.body {
+ body {
     font-family: "Outfit", sans-serif;    
     font-size: 15px;
     background-color: var(--light-gray);
